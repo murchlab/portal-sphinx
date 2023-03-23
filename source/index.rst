@@ -47,11 +47,14 @@ Note: Daria and Xingrui proposed that E7 may be used as the alternative name for
 Jupyter Lab
 -------------------
 
-`Jupyter Lab E3`_ 
+`Jupyter Lab E3`_
+
+`Jupyter Lab E7`_
 
 `Jupyter Lab LPKF`_
 
 .. _Jupyter Lab E3: https://murchlab.mooo.com:42264/
+.. _Jupyter Lab E7: https://murchlab.mooo.com:31967/
 .. _Jupyter Lab LPKF: https://murchlab.mooo.com:37193/
 
 Utilities
