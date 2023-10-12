@@ -53,7 +53,7 @@ Jupyter Lab
 
 `Jupyter Lab LPKF`_
 
-.. _Jupyter Lab E3: https://murchlab.mooo.com:42264/
+.. _Jupyter Lab E3: https://murchlab-e3.mooo.com:42264/
 .. _Jupyter Lab E7: https://murchlab.mooo.com:31967/
 .. _Jupyter Lab LPKF: https://murchlab.mooo.com:37193/
 
