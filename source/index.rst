@@ -42,8 +42,6 @@ VNC remote desktops
 .. _VNC E7: https://murchlab-e3.mooo.com:31971/vnc.html
 .. _VNC LPKF: https://murchlab.mooo.com:38595/vnc.html
 
-Note: Daria and Xingrui proposed that E7 may be used as the alternative name for 108.E1. We avoid the 108 prefix because the machine can change location.
-
 Jupyter Lab
 -------------------
 
@@ -53,7 +51,7 @@ Jupyter Lab
 
 `Jupyter Lab LPKF`_
 
-.. _Jupyter Lab E3: https://murchlab-e3.mooo.com:42264/
+.. _Jupyter Lab E3: https://murchlab.mooo.com:42264/
 .. _Jupyter Lab E7: https://murchlab.mooo.com:31967/
 .. _Jupyter Lab LPKF: https://murchlab.mooo.com:37193/
 
